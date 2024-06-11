@@ -1,5 +1,5 @@
-# Criptografia Alura - Challenge
+# Criptografia Challenge
 
-Tive que investir bastante tempo em pesquisa para compreender os conceitos necessários em JavaScript. No entanto, o esforço valeu a pena!
+Projeto realizado com Javascript.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
